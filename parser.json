@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/nushell/tree-sitter-nu",
   "semver": false,
   "parser_version": "696d257f6b652edb50878a783b30ad7833dec49e",
-  "lang": "nu"
+  "lang": "nu",
+  "url": "https://github.com/nushell/tree-sitter-nu"
 }
